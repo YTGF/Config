@@ -28,7 +28,8 @@ ext {
             "gridlayoutV7"               : "com.android.support:gridlayout-v7:${APPCOMPAT_SUPER_VERSION}",
             "recyclerviewV7"             : "com.android.support:recyclerview-v7:${APPCOMPAT_SUPER_VERSION}",
             "coreUtils"                  : "com.android.support:support-core-utils:${APPCOMPAT_SUPER_VERSION}",
-            "coreUi"                  : "com.android.support:support-core-ui:${APPCOMPAT_SUPER_VERSION}",
+            "coreUi"                  	 : "com.android.support:support-core-ui:${APPCOMPAT_SUPER_VERSION}",
+            "palette"					 : "com.android.support:palette-v7:${APPCOMPAT_SUPER_VERSION}",
             "constraintLayout"           : "com.android.support.constraint:constraint-layout:1.1.3",
             // Google 基于开源的Java库, 教程: https://www.yiibai.com/guava/
             "guava"                      : "com.google.guava:guava:${GUAVA_VERSION}",
