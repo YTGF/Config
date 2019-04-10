@@ -110,6 +110,6 @@ ext {
             // https://github.com/YTGF/YtLifecycle
             "Lifecycle"                  : "com.github.YTGF:YtLifecycle:1.0.4",
             // 基于 lzyzsd/JsBridge 数据交互框架 改版, https://github.com/YTGF/JsBridge
-            "JSBridge"                   : "com.github.YTGF:JsBridge:1.0.7",
+            "JSBridge"                   : "com.github.YTGF:JsBridge:1.0.8",
     ]
 }
